@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-
+![alt text](meals.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
